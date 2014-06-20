@@ -1,0 +1,96 @@
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.XML
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.pdb
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll.CodeAnalysisLog.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll.lastcodeanalysissucceeded
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\System.Windows.Interactivity.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\Microsoft.Expression.Interactions.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\System.Windows.Interactivity.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Release\Prism.csprojResolveAssemblyReference.cache
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Release\Prism.csproj.GenerateResource.Cache
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.pdb
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.XML
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.pdb
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll.CodeAnalysisLog.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll.lastcodeanalysissucceeded
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\System.Windows.Interactivity.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Expression.Interactions.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\System.Windows.Interactivity.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Prism.csprojResolveAssemblyReference.cache
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Prism.csproj.GenerateResource.Cache
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.pdb
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.XML
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.pdb
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll.CodeAnalysisLog.xml
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Practices.Prism.dll.lastcodeanalysissucceeded
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Expression.Interactions.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\System.Windows.Interactivity.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\Microsoft.Expression.Interactions.xml
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\System.Windows.Interactivity.xml
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\de\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\en\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\es\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\fr\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\it\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ja\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ko\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\de\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\en\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\es\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\fr\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\it\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ja\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\ko\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Prism.csprojResolveAssemblyReference.cache
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Prism.csproj.GenerateResource.Cache
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Release\Microsoft.Practices.Prism.pdb

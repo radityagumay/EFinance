@@ -1,0 +1,330 @@
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\System.Windows.Interactivity.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\System.Windows.Interactivity.xml
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\SVN\Travel Pad\Trunk\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+D:\SVN\Travel Pad\Trunk\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\SVN\Travel Pad\Trunk\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+D:\SVN\Travel Pad\Trunk\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+D:\SVN\Travel Pad\Trunk\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\System.Windows.Interactivity.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\System.Windows.Interactivity.xml
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+D:\SAMSUNG\Travel Pad\Trunk\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\SAMSUNG\Travel Pad\Trunk\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+D:\SAMSUNG\Travel Pad\Trunk\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+D:\SAMSUNG\Travel Pad\Trunk\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+C:\Users\radityagumay\Documents\Visual Studio 2012\Projects\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\System.Windows.Interactivity.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\System.Windows.Interactivity.xml
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+D:\DEV About me\WP8AboutMe Latest\WP7AboutMe\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+C:\Users\raditya\Desktop\Files\WP7AboutMe\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+I:\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+I:\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+I:\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+I:\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+I:\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.dll
+I:\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+I:\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.xml
+I:\Parapedia\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+I:\Parapedia\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+I:\Parapedia\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+I:\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+I:\Parapedia\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+I:\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+I:\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+G:\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+G:\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+G:\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+G:\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+G:\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.dll
+G:\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+G:\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.xml
+G:\Parapedia\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+G:\Parapedia\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+G:\Parapedia\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+G:\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+G:\Parapedia\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+G:\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+G:\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.xml
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+D:\RADITYA FILES\Desktop\Files\Parapedia\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.xml
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+D:\RADITYA FILES\Desktop\Files\LOMBA\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\System.Windows.Interactivity.xml
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+D:\APLIKASI\WP\Parapedia\Parapedia Release\Parapedia 20 Des\Parapedia\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\Microsoft.Practices.Prism.XML
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\Microsoft.Practices.Prism.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\Microsoft.Practices.Prism.pdb
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\Bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\obj\Debug\Prism.csprojResolveAssemblyReference.cache
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\obj\Debug\Microsoft.Practices.Prism.Properties.Resources.resources
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\obj\Debug\Prism.csproj.GenerateResource.Cache
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\obj\Debug\Microsoft.Practices.Prism.dll
+C:\Users\raditya\Documents\Visual Studio 2012\Projects\EconomicHackaton\Prism\obj\Debug\Microsoft.Practices.Prism.pdb
